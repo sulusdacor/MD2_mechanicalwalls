@@ -1,0 +1,9 @@
+personal changelog for mod "MD2 mechanical walls"
+
+- 06/01/2018
+
+	- added short description to what the walls are in about file
+	- fixed the linked textures (style changed form a16 to a17)
+	- fixed a bit of an issue on the embrasure (2,3 and 2,4 positions in the grid)
+		where the corner would connect strangely to other straights
+		(t-conections sideways still seem a bit cut off)

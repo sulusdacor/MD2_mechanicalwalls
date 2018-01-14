@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <TabCrematorius>控制</TabCrematorius>
+
+  <ButcherMode>屠宰</ButcherMode>
+  <CremateMode>火化</CremateMode>
+  
+  <Butcher>屠宰</Butcher>
+  <Cremate>火化</Cremate>
+  
+    
+  <OffMode>关闭</OffMode>
+  <OnlyRotten>只火化腐烂尸体</OnlyRotten>
+
+  <AnimalCorpses>动物尸体</AnimalCorpses>
+  <HumanoidCorpses>人类尸体</HumanoidCorpses>
+  <MechanoidCorpses>机械人尸体</MechanoidCorpses>
+
+  <CrematoriusPriorityTooltip>单击击设置这类尸体的优先级。数值越低，优先级越高。</CrematoriusPriorityTooltip>
+  
+</LanguageData>

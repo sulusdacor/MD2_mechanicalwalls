@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<MD2Storage.label>MD2-大容量贮存箱</MD2Storage.label>
+
+	<MD2Storage.description>解锁研究大容量贮存箱，它能够容纳大量的物品。</MD2Storage.description>
+
+	<StorageI.label>MD2-大容量贮存箱I型</StorageI.label>
+
+	<StorageI.description>解锁建造大容量贮存单元，它能够容纳大量的项目. -一种物品可以存储1000个.</StorageI.description>
+
+	<StorageII.label>MD2-大容量贮存箱II型</StorageII.label>
+
+	<StorageII.description>解锁建造大容量贮存单元，它能够容纳大量的项目. -一种物品可以存储1500个.</StorageII.description>
+
+	<StorageIII.label>MD2-大容量贮存箱III型</StorageIII.label>
+
+	<StorageIII.description>解锁建造大容量贮存单元，它能够容纳大量的项目. -一种物品可以存储2250个.</StorageIII.description>
+
+</LanguageData>

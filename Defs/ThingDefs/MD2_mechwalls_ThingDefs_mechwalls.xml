@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef ParentName="BuildingBase">
+    <defName>MechWallExtended</defName>
+    <label>Extended Mechanical Wall</label>
+    <thingClass>MD2_mechwalls.Building_MechWallExtended</thingClass>
+    <category>Building</category>
+    <description>An impassable mechanised wall.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/Wall</texPath>
+      <graphicClass>Graphic_Appearances</graphicClass>
+      <linkType>CornerFiller</linkType>
+      <linkFlags>
+        <li>Wall</li>
+        <li>Rock</li>
+      </linkFlags>
+    </graphicData>
+    <blueprintGraphicData>
+      <texPath>Things/Building/Linked/Wall_Blueprint_Atlas</texPath>
+    </blueprintGraphicData>
+    <uiIconPath>Things/Building/Linked/WallSmooth_MenuIcon</uiIconPath>
+    <statBases>
+      <MaxHitPoints>300</MaxHitPoints>
+      <WorkToMake>1000</WorkToMake>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <stuffCategories>
+      <li>Metallic</li>
+      <li>Woody</li>
+      <li>Stony</li>
+    </stuffCategories>
+    <costStuffCount>50</costStuffCount>
+    <costList>
+      <Steel>50</Steel>
+    </costList>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Impassable</passability>
+    <castEdgeShadows>true</castEdgeShadows>
+    <fillPercent>1</fillPercent>
+    <coversFloor>true</coversFloor>
+    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <tickerType>Never</tickerType>
+    <rotatable>false</rotatable>
+    <selectable>true</selectable>
+    <neverMultiSelect>false</neverMultiSelect>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+    <holdsRoof>false</holdsRoof>
+    <designationCategory>Structure</designationCategory>
+    <staticSunShadowHeight>1.0</staticSunShadowHeight>
+    <blockLight>true</blockLight>
+	<blockWind>true</blockWind>
+	<canOverlapZones>false</canOverlapZones>
+	<building>
+      <isInert>true</isInert>
+    </building>
+    <comps>
+	    <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>15</basePowerConsumption>
+        <transmitsPower>true</transmitsPower>
+      </li>
+    </comps>
+    <damageMultipliers>
+      <li>
+        <damageDef>Bomb</damageDef>
+        <multiplier>3</multiplier>
+      </li>
+    </damageMultipliers>
+    <researchPrerequisites>
+		<li>MD2_mechwalls_research_DSU</li>
+	</researchPrerequisites>
+  </ThingDef>
+
+  <ThingDef ParentName="BuildingBase">
+    <defName>MechWallRecessed</defName>
+    <label>Recessed Mechanical Wall</label>
+    <thingClass>MD2_mechwalls.Building_MechWallRecessed</thingClass>
+    <category>Building</category>
+    <description>A mechanised wall that has been recessed into the floor.</description>
+    <graphicData>
+      <texPath>Buildings/MechWall/MechWall_Recessed</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <linkType>CornerFiller</linkType>
+      <linkFlags>
+        <li>Wall</li>
+        <li>Rock</li>
+      </linkFlags>
+    </graphicData>
+    <uiIconPath>Things/Building/Linked/WallSmooth_MenuIcon</uiIconPath>
+    <statBases>
+      <MaxHitPoints>300</MaxHitPoints>
+      <Flammability>0</Flammability>
+    </statBases>
+<!--
+    <combatTargetBuilding>false</combatTargetBuilding>
+-->
+
+    <altitudeLayer>FloorEmplacement</altitudeLayer>
+    <passability>Standable</passability>
+    <stuffCategories>
+      <li>Metallic</li>
+      <li>Woody</li>
+      <li>Stony</li>
+    </stuffCategories>
+        <costStuffCount>50</costStuffCount>
+    <castEdgeShadows>false</castEdgeShadows>
+    <menuHidden>true</menuHidden>
+    <fillPercent>0.1</fillPercent>
+    <coversFloor>true</coversFloor>
+    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <tickerType>Never</tickerType>
+    <rotatable>false</rotatable>
+    <selectable>true</selectable>
+    <neverMultiSelect>false</neverMultiSelect>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+    <holdsRoof>false</holdsRoof>
+    <staticSunShadowHeight>0</staticSunShadowHeight>
+    <blockLight>false</blockLight>
+	<blockWind>false</blockWind>
+    <surfaceType>Item</surfaceType>
+    <building>
+      <isInert>true</isInert>
+    </building>
+    <comps>
+         <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>15</basePowerConsumption>
+        <transmitsPower>true</transmitsPower>
+      </li>
+    </comps>
+  </ThingDef>
+
+</Defs>

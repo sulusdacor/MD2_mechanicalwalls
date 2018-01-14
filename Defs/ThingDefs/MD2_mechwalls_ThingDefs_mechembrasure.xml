@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  
+
+  <ThingDef ParentName="WallBase">
+    <defName>MD2MechEmbrasure</defName>
+    <label>mechanical embrasure</label>
+    <thingClass>MD2_mechwalls.Building_MechWallEmbrasure</thingClass>
+    <description>A mechanical wall which has been opened to act as an embrasure.</description>
+    <fillPercent>0.99</fillPercent>
+    <uiIconPath>UI/Icons/Metal</uiIconPath>
+    <graphicData>
+      <texPath>Buildings/Embrasure/Embrasure</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <linkType>CornerFiller</linkType>
+      <linkFlags>
+        <li>Wall</li>
+        <li>Rock</li>
+      </linkFlags>
+    </graphicData>
+    <comps>
+         <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>15</basePowerConsumption>
+        <transmitsPower>true</transmitsPower>
+      </li>
+    </comps>
+  </ThingDef>
+
+</Defs>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<MechWallExtended.label>机械墙(升高)</MechWallExtended.label>
+	<MechWallExtended.description>一个不可逾越的机械墙.</MechWallExtended.description>
+
+	<MechWallRecessed.label>机械墙(降低)</MechWallRecessed.label>
+	<MechWallRecessed.description>一个降低高度到地面的机械墙，可以逾越。.</MechWallRecessed.description>
+
+</LanguageData>

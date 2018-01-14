@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+ 
+<MD2.FissureSmall>Small</MD2.FissureSmall>
+<MD2.FissureMedium>Medium</MD2.FissureMedium>
+<MD2.FissureLarge>Large</MD2.FissureLarge>
+<MD2.FissureSteamGeyser>Selected size: Steam Geyser</MD2.FissureSteamGeyser>
+<MD2.FissureType>Fissure size:</MD2.FissureType>
+<MD2.FissureSelectedResource>Selected resource:</MD2.FissureSelectedResource>
+<MD2.FissureChangeResourceLabel>Change resource</MD2.FissureChangeResourceLabel>
+<MD2.FissureChangeResourceDesc>Click to change which resource to produce</MD2.FissureChangeResourceDesc>
+<MD2.FillsFissureDesc>Fills the fissure in</MD2.FillsFissureDesc>
+<MD2.FillsFissureLabel>Fill in fissure</MD2.FillsFissureLabel>
+<MD2.FillsFissureConfirm>Are you sure you wish to fill in this fissure?</MD2.FillsFissureConfirm>
+<MD2.FillsFissureNotBegun>Operation has not begun</MD2.FillsFissureNotBegun>
+<MD2.FillsFissureProgress>Progress: </MD2.FillsFissureProgress>
+<MD2.FillsFissureBeginLabel>Begin</MD2.FillsFissureBeginLabel>
+<MD2.FillsFissureBeginDesc>Click here to begin the drilling process once you have chosen your desired fissure size</MD2.FillsFissureBeginDesc>
+<MD2.FillsFissurePauseLabel>Pause</MD2.FillsFissurePauseLabel>
+<MD2.FillsFissurePauseDesc>Click here to pause the drilling process</MD2.FillsFissurePauseDesc>
+<MD2.FillsFissureResumeLabel>Resume</MD2.FillsFissureResumeLabel>
+<MD2.FillsFissureResumeDesc>Click here to resume the drilling process</MD2.FillsFissureResumeDesc>
+<MD2.FillsFissureChooseFissureLabel>Choose Fissure</MD2.FillsFissureChooseFissureLabel>
+<MD2.FillsFissureChooseFissureDesc>Choose Fissure</MD2.FillsFissureChooseFissureDesc>
+
+<MD2.ManufacturingAssemblyLine>Assembly Line</MD2.ManufacturingAssemblyLine>
+<MD2.ManufacturingManagerLabel>Open manufacturing manager</MD2.ManufacturingManagerLabel>
+<MD2.ManufacturingManagerDesc>Opens the manufacturing manager user interface</MD2.ManufacturingManagerDesc>
+<MD2.ManufacturingNeedPower>Building must be powered!</MD2.ManufacturingNeedPower>
+<MD2.ManufacturingCompletedOrder> has completed its order </MD2.ManufacturingCompletedOrder>
+<MD2.ManufacturingDoForever>Do Forever</MD2.ManufacturingDoForever>
+<MD2.ManufacturingCompleteAll>Complete all</MD2.ManufacturingCompleteAll>
+<MD2.ManufacturingCompleteAllInfo>Activating this will set the Assembly line to send down the completed products once all cycles of the order have been completed, or when it has completed 15 cycles. This helps reduce the number of incoming drops when the completion time of the recipe is very quick.</MD2.ManufacturingCompleteAllInfo>
+<MD2.ManufacturingNoCompleteAll>Activating this will set the Assembly line to send down the completed products once all cycles of the order have been completed, or when it has completed 5 cycles. This helps reduce the number of incoming drops when the completion time of the recipe is very quick.</MD2.ManufacturingNoCompleteAll>
+
+<MD2.MechWallExtendWallLable>Extend Wall</MD2.MechWallExtendWallLable>  
+<MD2.MechWallExtendWallDesc>Click to extend the wall</MD2.MechWallExtendWallDesc>  
+<MD2.MechWallOpenEmbrasureLable>Open embrasure</MD2.MechWallOpenEmbrasureLable>  	
+<MD2.MechWallOpenEmbrasureDesc>Click to extend the wall into an embrasure</MD2.MechWallOpenEmbrasureDesc>  
+<MD2.MechWallRecessWallLable>Recess Wall</MD2.MechWallRecessWallLable>  	
+<MD2.MechWallRecessWallDesc>Click to recess the wall into the ground</MD2.MechWallRecessWallDesc>  	
+
+<MD2.PowerNextToCoalPlant>Must be placed next to a coal burner</MD2.PowerNextToCoalPlant>  
+<MD2.PowerActiveLable>Active</MD2.PowerActiveLable>
+<MD2.PowerActiveDesc>Click to deactivate this building</MD2.PowerActiveDesc>
+<MD2.PowerNotActiveLable>Not active</MD2.PowerNotActiveLable>
+<MD2.PowerNotActiveDesc>Click to activate this building</MD2.PowerNotActiveDesc>
+<MD2.PowerNotFuelEnabledLable>Fuel intake enabled</MD2.PowerNotFuelEnabledLable>
+<MD2.PowerNotFuelEnabledDesc>Click to stop this building from taking fuel</MD2.PowerNotFuelEnabledDesc>
+<MD2.PowerNotFuelDisabledLable>Fuel intake disabled</MD2.PowerNotFuelDisabledLable>
+<MD2.PowerNotFuelDisabledDesc>Click to this building to take fuel</MD2.PowerNotFuelDisabledDesc>
+<MD2.PowerFuelLevel>Fuel level:</MD2.PowerFuelLevel>  
+
+</LanguageData>

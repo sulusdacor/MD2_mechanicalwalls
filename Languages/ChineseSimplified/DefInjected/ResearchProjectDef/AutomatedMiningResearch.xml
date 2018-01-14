@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<MD2Extractor.label>MD2-采矿机</MD2Extractor.label>
+	<MD2Extractor.description>解锁制造采矿机， 一种可以从裂缝里开采资源的机器。裂缝越大可开采的资源价值越大。-按“改变开采资源”按钮选择需要开采的资源。</MD2Extractor.description>
+
+	<MD2FissureGenerator.label>MD2-深渊制造者</MD2FissureGenerator.label>
+	<MD2FissureGenerator.description>解锁制造深渊制造者, 一种强大的机器用来挖掘一个深入地底的裂缝.也能开采间歇蒸汽喷泉. -按“改变裂缝尺寸”按钮选择您想挖掘的裂缝的大小，然后按“开始”按钮开始挖掘。也可随时按“暂停”按钮暂停挖掘。</MD2FissureGenerator.description>
+
+</LanguageData>

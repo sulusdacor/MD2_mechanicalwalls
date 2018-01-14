@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+ 
+<MD2.FissureSmall>小型</MD2.FissureSmall>
+<MD2.FissureMedium>中型</MD2.FissureMedium>
+<MD2.FissureLarge>大型</MD2.FissureLarge>
+<MD2.FissureType>裂隙类型:</MD2.FissureType>
+<MD2.FissureSelectedResource>开采的资源:</MD2.FissureSelectedResource>
+<MD2.FissureChangeResourceLabel>改变开采资源</MD2.FissureChangeResourceLabel>
+<MD2.FissureChangeResourceDesc>单击改变开采的资源</MD2.FissureChangeResourceDesc>
+<MD2.FillsFissureDesc>填补裂缝</MD2.FillsFissureDesc>
+<MD2.FillsFissureLabel>填补裂缝</MD2.FillsFissureLabel>
+<MD2.FillsFissureConfirm>确定要填补上这个裂缝么?</MD2.FillsFissureConfirm>
+<MD2.FissureSteamGeyser>选择的类型: 蒸汽间歇喷泉</MD2.FissureSteamGeyser>
+<MD2.FillsFissureNotBegun>挖掘操作还未开始</MD2.FillsFissureNotBegun>
+<MD2.FillsFissureProgress>进度:</MD2.FillsFissureProgress>
+<MD2.FillsFissureBeginLabel>开始</MD2.FillsFissureBeginLabel>
+<MD2.FillsFissureBeginDesc>一旦你选择你想要的裂隙类型点击这里开始挖掘操作</MD2.FillsFissureBeginDesc>
+<MD2.FillsFissurePauseLabel>暂停</MD2.FillsFissurePauseLabel>
+<MD2.FillsFissurePauseDesc>点击这里暂停挖掘操作</MD2.FillsFissurePauseDesc>
+<MD2.FillsFissureResumeLabel>继续</MD2.FillsFissureResumeLabel>
+<MD2.FillsFissureResumeDesc>点击这里继续挖掘操作</MD2.FillsFissureResumeDesc>
+<MD2.FillsFissureChooseFissureLabel>改变裂缝类型</MD2.FillsFissureChooseFissureLabel>
+<MD2.FillsFissureChooseFissureDesc>改变裂缝类型</MD2.FillsFissureChooseFissureDesc>
+
+<MD2.ManufacturingAssemblyLine>生产线</MD2.ManufacturingAssemblyLine>
+<MD2.ManufacturingManagerLabel>打开制造管理</MD2.ManufacturingManagerLabel>
+<MD2.ManufacturingManagerDesc>打开制造管理的用户界面</MD2.ManufacturingManagerDesc>
+<MD2.ManufacturingNeedPower>建筑需要电力供应!</MD2.ManufacturingNeedPower>
+<MD2.ManufacturingCompletedOrder>已经完成订单</MD2.ManufacturingCompletedOrder>
+
+<MD2.ManufacturingDoForever>永远做下去</MD2.ManufacturingDoForever>
+<MD2.ManufacturingCompleteAll>完成所有</MD2.ManufacturingCompleteAll>
+<MD2.ManufacturingCompleteAllInfo>激活这项设定后生产线完成所有周期的生产订单或完成15次后,才会将生产出的产品集中空投. 这有助于订单所需生产时间短时减少产品的空投次数.</MD2.ManufacturingCompleteAllInfo>
+<MD2.ManufacturingNoCompleteAll>激活这项设定后生产线完成所有周期的生产订单或完成5次后,才会将生产出的产品集中空投. 这有助于订单所需生产时间短时减少产品的空投次数.</MD2.ManufacturingNoCompleteAll>
+
+<MD2.MechWallExtendWallLable>升高墙壁</MD2.MechWallExtendWallLable>  
+<MD2.MechWallExtendWallDesc>单击升高这堵墙</MD2.MechWallExtendWallDesc>  
+<MD2.MechWallOpenEmbrasureLable>开启射击孔</MD2.MechWallOpenEmbrasureLable>  	
+<MD2.MechWallOpenEmbrasureDesc>点击升高墙壁并开启射击孔</MD2.MechWallOpenEmbrasureDesc>  
+<MD2.MechWallRecessWallLable>降低墙壁</MD2.MechWallRecessWallLable>  	
+<MD2.MechWallRecessWallDesc>单击降低这堵墙到地面高度</MD2.MechWallRecessWallDesc>  
+
+<MD2.PowerNextToCoalPlant>必须放在煤燃发电机旁边</MD2.PowerNextToCoalPlant>  
+<MD2.PowerActiveLable>启用</MD2.PowerActiveLable>
+<MD2.PowerActiveDesc>点击禁用这个设施</MD2.PowerActiveDesc>
+<MD2.PowerNotActiveLable>禁用</MD2.PowerNotActiveLable>
+<MD2.PowerNotActiveDesc>点击启用这个设施</MD2.PowerNotActiveDesc>
+<MD2.PowerNotFuelEnabledLable>燃料补给启用</MD2.PowerNotFuelEnabledLable>
+<MD2.PowerNotFuelEnabledDesc>点击停止为设施补给燃料</MD2.PowerNotFuelEnabledDesc>
+<MD2.PowerNotFuelDisabledLable>燃料补给禁用</MD2.PowerNotFuelDisabledLable>
+<MD2.PowerNotFuelDisabledDesc>点击启用为设施补给燃料</MD2.PowerNotFuelDisabledDesc>
+<MD2.PowerFuelLevel>燃料存量:</MD2.PowerFuelLevel>  
+
+</LanguageData>

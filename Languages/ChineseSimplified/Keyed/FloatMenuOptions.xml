@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <DroidCremate>火化{0}的尸体</DroidCremate>
+  <DroidButcher>屠宰{0}的尸体</DroidButcher>
+  <DroidCannotButcher>不能屠宰尸体(尸体是{0})</DroidCannotButcher>
+  <DroidManThing>Man {0}</DroidManThing>
+
+  <DroidArrestNoBedsAvailable>没有囚犯的床位</DroidArrestNoBedsAvailable>
+
+  <DroidRescueNoMedicalBedsAvailable>没有空余床位无法拯救这名殖民者。</DroidRescueNoMedicalBedsAvailable>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<MD2CoalPowerPlant.label>MD2-燃煤发电</MD2CoalPowerPlant.label>
+	<MD2CoalPowerPlant.description>解锁建造燃煤发电机和饲煤器. 燃煤发电机燃烧煤炭发电. 可以输出5600w电量但需要不断提供煤炭补给.</MD2CoalPowerPlant.description>
+
+</LanguageData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<MD2ManufacturingPlant.label>MD2-外星轨道制造厂</MD2ManufacturingPlant.label>
+
+	<MD2ManufacturingPlant.description>解锁外星轨道制造工厂，一个强大的行星轨道系统，可以自动制造许多物品。它使用贸易信标范围内的资源，当它完成了一个制造清单后，制造的物品将在贸易信标处被空投。通过建造轨道工厂控制台访问系统，点击命令按钮打开制造清单.</MD2ManufacturingPlant.description>
+
+</LanguageData>

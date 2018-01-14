@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	
+	<ResearchProjectDef>
+		<defName>MD2_mechwalls_research_DSU</defName>
+		<label>Mechanical Walls</label>
+		<description>Unlocks mechanical walls. These are special walls which can be raised or lowered, acting as walls and surprise ambush points. Require power to operate.</description>
+		<baseCost>500</baseCost>
+		<techLevel>Industrial</techLevel>
+		<researchViewX>1</researchViewX>
+		<researchViewY>2</researchViewY>
+		<tab>MD2_base_ResearchTab</tab>
+	</ResearchProjectDef>
+
+</Defs>

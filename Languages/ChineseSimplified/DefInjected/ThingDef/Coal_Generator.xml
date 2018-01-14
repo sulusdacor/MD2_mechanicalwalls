@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<MD2CoalFeeder.label>饲煤器</MD2CoalFeeder.label>
+	<MD2CoalFeeder.description>给燃煤发电机补给燃料.</MD2CoalFeeder.description>
+
+	<MD2CoalBurner.label>燃煤发电机</MD2CoalBurner.label>
+	<MD2CoalBurner.description>通过燃烧煤炭发电。旁边需要放置饲煤器提供燃料。</MD2CoalBurner.description>
+
+</LanguageData>

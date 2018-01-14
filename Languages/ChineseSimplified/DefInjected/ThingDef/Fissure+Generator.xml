@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<MD2Fissure.label>裂缝</MD2Fissure.label>
+
+	<MD2Fissure.description>深入地底的裂缝。</MD2Fissure.description>
+
+	<MD2FissureGenerator.label>裂缝制造者</MD2FissureGenerator.label>
+
+	<MD2FissureGenerator.description>一种强大的机器用来挖掘一个深入地底的裂缝，深达星球的地壳下层。</MD2FissureGenerator.description>
+
+</LanguageData>

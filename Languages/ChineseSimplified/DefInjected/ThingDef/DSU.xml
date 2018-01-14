@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<MD2DeepStorageI.label>大容量贮存箱I型</MD2DeepStorageI.label>
+	<MD2DeepStorageI.description>一种容器，可存储大量的物品。一种物品可贮存1000个。</MD2DeepStorageI.description>
+
+	<MD2DeepStorageII.label>大容量贮存箱II型</MD2DeepStorageII.label>
+	<MD2DeepStorageII.description>一种容器，可存储大量的物品。一种物品可贮存1500个。</MD2DeepStorageII.description>
+
+	<MD2DeepStorageIII.label>大容量贮存箱III型</MD2DeepStorageIII.label>
+	<MD2DeepStorageIII.description>一种容器，可存储大量的物品。一种物品可贮存2250个。</MD2DeepStorageIII.description>
+
+
+</LanguageData>
