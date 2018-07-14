@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Mechanical Defense 2 - mechanical walls</name>
+  <author>mipen</author>
+  <targetVersion>1.0.1964</targetVersion>
+  <url>https://ludeon.com/forums/index.php?topic=26276.0</url>
+	<description>"Mechanical Defense 2" (MD2)
+	
+	- mechanical walls
+	
+	>>Mechanical Walls - walls that be raised or lowered to allow access.
+	(3 states: wall, embrasure, "walkable floor")
+	
+	updated by sulusdacor ported to 1.0
+	
+	Download links for Dropbox or Steamworkshop link can be found in the ludeon forum thread linked above.</description>
+</ModMetaData>
