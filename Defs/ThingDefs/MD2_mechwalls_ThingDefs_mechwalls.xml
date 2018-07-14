@@ -16,13 +16,16 @@
         <li>Rock</li>
       </linkFlags>
     </graphicData>
+	<building>
     <blueprintGraphicData>
       <texPath>Things/Building/Linked/Wall_Blueprint_Atlas</texPath>
     </blueprintGraphicData>
+    <isInert>true</isInert>
+	</building>
     <uiIconPath>Things/Building/Linked/WallSmooth_MenuIcon</uiIconPath>
     <statBases>
       <MaxHitPoints>300</MaxHitPoints>
-      <WorkToMake>1000</WorkToMake>
+      <WorkToBuild>1000</WorkToBuild>
       <Flammability>1.0</Flammability>
     </statBases>
     <stuffCategories>
@@ -51,9 +54,6 @@
     <blockLight>true</blockLight>
 	<blockWind>true</blockWind>
 	<canOverlapZones>false</canOverlapZones>
-	<building>
-      <isInert>true</isInert>
-    </building>
     <comps>
 	    <li Class="CompProperties_Power">
         <compClass>CompPowerTrader</compClass>
