@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 	
-  <ThingDef Name="BuildingBase" Abstract="True">
+  <ThingDef Name="BuildingBaseMW" Abstract="True">
     <category>Building</category>
     <thingClass>Building</thingClass>
-    <soundImpactDefault>BulletImpactMetal</soundImpactDefault>
+    <soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
     <selectable>true</selectable>
     <drawerType>MapMeshAndRealTime</drawerType>
     <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
@@ -15,7 +15,7 @@
 		</statBases>
   </ThingDef>
   
-  <ThingDef ParentName="BuildingBase" Name="WallBase" Abstract="True">
+  <ThingDef ParentName="BuildingBaseMW" Name="WallBase" Abstract="True">
     <category>Building</category>
     <uiIconPath>Things/Building/Linked/WallSmooth_MenuIcon</uiIconPath>
     <statBases>
