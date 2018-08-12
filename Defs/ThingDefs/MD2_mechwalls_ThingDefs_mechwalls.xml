@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
-  <ThingDef ParentName="BuildingBaseMW">
+  <ThingDef ParentName="BuildingBase">
     <defName>MechWallExtended</defName>
     <label>Extended Mechanical Wall</label>
     <thingClass>MD2_mechwalls.Building_MechWallExtended</thingClass>
@@ -72,7 +72,7 @@
 	</researchPrerequisites>
   </ThingDef>
 
-  <ThingDef ParentName="BuildingBaseMW">
+  <ThingDef ParentName="BuildingBase">
     <defName>MechWallRecessed</defName>
     <label>Recessed Mechanical Wall</label>
     <thingClass>MD2_mechwalls.Building_MechWallRecessed</thingClass>
