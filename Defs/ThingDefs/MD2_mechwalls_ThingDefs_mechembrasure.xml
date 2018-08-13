@@ -3,7 +3,7 @@
 
   
 
-  <ThingDef ParentName="WallBase">
+  <ThingDef ParentName="Wall">
     <defName>MD2MechEmbrasure</defName>
     <label>mechanical embrasure</label>
     <thingClass>MD2_mechwalls.Building_MechWallEmbrasure</thingClass>
