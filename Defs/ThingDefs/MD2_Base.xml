@@ -1,6 +1,6 @@
- <?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <Defs> 
-  
+
   <ThingDef ParentName="BuildingBase" Name="WallBase" Abstract="True">
     <category>Building</category>
     <uiIconPath>Things/Building/Linked/WallSmooth_MenuIcon</uiIconPath>
@@ -39,4 +39,4 @@
     </damageMultipliers>
   </ThingDef>
   
- </Defs>
+</Defs>
