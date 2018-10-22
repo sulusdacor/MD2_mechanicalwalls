@@ -1,21 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<Defs>
-	
-  <ThingDef Name="BuildingBase" Abstract="True">
-    <category>Building</category>
-    <thingClass>Building</thingClass>
-    <soundImpactDefault>BulletImpactMetal</soundImpactDefault>
-    <selectable>true</selectable>
-    <drawerType>MapMeshAndRealTime</drawerType>
-    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
-    <repairEffect>Repair</repairEffect>
-    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
-    <filthLeaving>BuildingRubble</filthLeaving>
-		<statBases>
-			<SellPriceFactor>0.70</SellPriceFactor>
-		</statBases>
-  </ThingDef>
-  
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs> 
+
   <ThingDef ParentName="BuildingBase" Name="WallBase" Abstract="True">
     <category>Building</category>
     <uiIconPath>Things/Building/Linked/WallSmooth_MenuIcon</uiIconPath>
@@ -53,5 +38,5 @@
       </li>
     </damageMultipliers>
   </ThingDef>
-
+  
 </Defs>
