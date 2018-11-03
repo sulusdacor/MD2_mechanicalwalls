@@ -16,9 +16,7 @@
         <li>Rock</li>
       </linkFlags>
     </graphicData>
-    <blueprintGraphicData>
-      <texPath>Things/Building/Linked/Wall_Blueprint_Atlas</texPath>
-    </blueprintGraphicData>
+    
     <uiIconPath>Things/Building/Linked/WallSmooth_MenuIcon</uiIconPath>
     <statBases>
       <MaxHitPoints>300</MaxHitPoints>
@@ -53,6 +51,9 @@
 	<canOverlapZones>false</canOverlapZones>
 	<building>
       <isInert>true</isInert>
+		<blueprintGraphicData>
+			<texPath>Things/Building/Linked/Wall_Blueprint_Atlas</texPath>
+		</blueprintGraphicData>
     </building>
     <comps>
 	    <li Class="CompProperties_Power">
