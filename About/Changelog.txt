@@ -15,3 +15,7 @@ personal changelog for mod "MD2 mechanical walls"
 - 03/11/2018
 	
 	- 1.0 update
+
+- 18/01/2018
+
+	- removed buildingbase abstract so it uses base game abstract

@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 	
+	<!-- 
   <ThingDef Name="BuildingBase" Abstract="True">
     <category>Building</category>
     <thingClass>Building</thingClass>
@@ -15,6 +16,7 @@
 			<SellPriceFactor>0.70</SellPriceFactor>
 		</statBases>
   </ThingDef>
+  -->
   
   <ThingDef ParentName="BuildingBase" Name="WallBase" Abstract="True">
     <category>Building</category>
