@@ -2,7 +2,7 @@
 <ModMetaData>
   <name>Mechanical Defense 2 - mechanical walls</name>
   <author>mipen</author>
-  <targetVersion>1.0.2059</targetVersion>
+  <supportedVersions><li>1.0</li></supportedVersions>
   <url>https://ludeon.com/forums/index.php?topic=26276.0</url>
 	<description>"Mechanical Defense 2" (MD2)
 	Ver.: 1.0-1.0.1
